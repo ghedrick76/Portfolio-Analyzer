@@ -19,6 +19,15 @@ run a monte carlo simulation on the user's portfolio -
 Required Libraries
 
 
+os
+requests
+json
+pandas
+dotenv
+alpaca_trade_api
+pathlib
+
+MCForecastTools
 
 
 All necessary functions stored in the "Resources" folder.
