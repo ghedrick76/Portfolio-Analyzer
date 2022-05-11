@@ -6,13 +6,13 @@ Description
 
 
 
-Take some stocks the user selects
-put them into a database
-run summary statistics
-risk-adjusted return
-sharpe ratio
-compare that portfolio to S&P 500 (csv)
-run a monte carlo simulation on the user's portfolio
+Take some stocks the user selects - 
+put them into a database - 
+run summary statistics - 
+risk-adjusted return - 
+sharpe ratio - 
+compare that portfolio to S&P 500 (csv) -
+run a monte carlo simulation on the user's portfolio - 
 
 
 
