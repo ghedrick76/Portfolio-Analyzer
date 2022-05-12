@@ -27,6 +27,7 @@ alpaca_trade_api
 MCForecastTools  
 pathlib  
 matplotlib  
+hvplot
 
 
 All necessary functions stored in the "Resources" folder.
