@@ -4,12 +4,20 @@
 # **Project_1_Portfolio_Analyzer
 
 Project 1 for Modules 8 and 9.
+**
 
+<<<<<<< HEAD
+=======
+
+Description
+description
+=======
 
 =======
 
 Description
 
+>>>>>>> 029a43cb5979a2a1084d99aad5f5d71940d9c5ae
 
 Description
 
