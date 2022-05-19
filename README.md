@@ -1,35 +1,18 @@
+Portfolio Analyzer Application
 
-# ----Project_1_Portfolio_Analyzer
+Project 1 for UNCC FinTech Boot Camp
 
-# **Project_1_Portfolio_Analyzer
-
-Project 1 for Modules 8 and 9.
-**
-
-<<<<<<< HEAD
-=======
-
-Description
-description
-=======
-
-=======
 
 Description
 
->>>>>>> 029a43cb5979a2a1084d99aad5f5d71940d9c5ae
 
-Description
+The user can input any five tickers that they select, and it will return statistics on their portfolio.
+They can also input the quantity of their tickers to calculate the portfolio value.
+Users can choose to save a copy of the portfolio DataFrame they create to a .csv file located in the "Resources" folder.
+The application then gathers data from the S&P 500, DJI, and NASDAQ from a .csv file and plots them.
 
-This is a test
-
-Take some stocks the user selects - 
-put them into a database - 
-run summary statistics - 
-risk-adjusted return - 
-sharpe ratio - 
-compare that portfolio to S&P 500 (csv) -
-run a monte carlo simulation on the user's portfolio - 
+Finally, a Monte Carlo simulation is run on the indexes and the user's portfolio to determine whether or not their portfolio will outperform the market.
+ 
 
 
 
@@ -44,21 +27,10 @@ pandas
 dotenv
 alpaca_trade_api
 pathlib
-
-MCForecastTools
-=======
-os  
-requests  
-json  
-pandas  
-dotenv  
-alpaca_trade_api  
-MCForecastTools  
-pathlib  
-matplotlib  
+MCForecastTools 
 hvplot
+dateutil.relativedelta
 
 
-
-All necessary functions stored in the "Resources" folder.
+This application saves a copy of your portfolio to a csv in "Resources".
 
