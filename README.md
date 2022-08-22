@@ -1,6 +1,6 @@
-Portfolio Analyzer Application
+# Portfolio Analyzer Application
 
-Project 1 for UNCC FinTech Boot Camp
+An application to analyze a stock or portfolio of stocks. The user can choose their tickers and run different analyses on them, as well as perform a Monte Carlo simulation on a basket of stocks.
 
 
 Description
@@ -33,4 +33,22 @@ dateutil.relativedelta
 
 
 This application saves a copy of your portfolio to a csv in "Resources".
+
+
+# Installation
+
+### Clone Repository
+git clone 
+
+
+### Install Dependencies
+Listed above are the relevant dependencies.  Jupyter Lab is also required.
+
+### Start Application
+
+The application can be run by navigating to the Portfolio-Analyzer Directory in the terminal.  Type jupyter lab to run the notebook!  You can input your stocks and the analyses will be run.
+
+
+
+
 
