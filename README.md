@@ -38,7 +38,7 @@ This application saves a copy of your portfolio to a csv in "Resources".
 # Installation
 
 ### Clone Repository
-git clone 
+git clone https://github.com/ghedrick76/Portfolio-Analyzer.git
 
 
 ### Install Dependencies
